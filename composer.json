@@ -48,5 +48,8 @@
         "sort-packages": true,
         "allow-plugins": true
     },
-    "prefer-stable": true
+    "prefer-stable": true,
+    "replace": {
+        "league/openapi-psr7-validator": "*"
+    }
 }
